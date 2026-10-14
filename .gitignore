@@ -1,0 +1,8 @@
+# Compiled executable
+hello
+
+#Debugging symbols
+*.dSYM/
+
+# mac)S system files
+.DS_Store
